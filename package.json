@@ -1,0 +1,12 @@
+{
+  "name": "termin",
+  "version": "0.0.0",
+  "description": "Termin",
+  "main": "termin_app.js",
+  "author": {
+    "name": "Léon"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

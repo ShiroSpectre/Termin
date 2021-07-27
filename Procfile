@@ -1,0 +1,1 @@
+worker: node termin_app.js
